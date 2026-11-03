@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse Enterprise NMS",
+  "description": "Enterprise Network Management System for monitoring, configuring, and controlling physical Cisco network devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
